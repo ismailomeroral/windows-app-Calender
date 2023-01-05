@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <dbdate>
+    <date>
+      <date_id id="" />
+      <date_name name="" />
+      <date_days days="" />
+      <date_time time="" />
+      <date_explanation explanation="" />
+    </date>
+  </dbdate>
+  <date>
+    <date_id id="0" />
+    <date_name name="" />
+    <date_days days="" />
+    <date_time time="" />
+    <date_explanation explanation="" />
+  </date>
+</root>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <dbdate>
+    <date>
+      <date_id id="" />
+      <date_name name="" />
+      <date_days days="" />
+      <date_time time="" />
+      <date_explanation explanation="" />
+    </date>
+  </dbdate>
+  <date>
+    <date_id id="0" />
+    <date_name name="adaw" />
+    <date_days days="Pazartesi" />
+    <date_time time="12:00 - 13:00" />
+    <date_explanation explanation="awdadw" />
+  </date>
+  <date>
+    <date_id id="1" />
+    <date_name name="adaw" />
+    <date_days days="Pazartesi" />
+    <date_time time="12:00 - 13:00" />
+    <date_explanation explanation="awdadw" />
+  </date>
+  <date>
+    <date_id id="2" />
+    <date_name name="eqwe" />
+    <date_days days="Salı" />
+    <date_time time="12:00 - 13:00" />
+    <date_explanation explanation="qwwwwwascas" />
+  </date>
+  <date>
+    <date_id id="3" />
+    <date_name name="qrswwwwwwwwwwddad" />
+    <date_days days="Cuma,Çarşamba,Salı" />
+    <date_time time="12:00 - 13:00" />
+    <date_explanation explanation="awfawfww" />
+  </date>
+  <date>
+    <date_id id="4" />
+    <date_name name="ankarada oturma" />
+    <date_days days="Cumartesi,Pazar,Perşembe,Pazartesi" />
+    <date_time time="15:30 - 20:00" />
+    <date_explanation explanation="ama bu olmazki " />
+  </date>
+  <date>
+    <date_id id="5" />
+    <date_name name="emmenin oyun saaati" />
+    <date_days days="Cumartesi,Pazar,Çarşamba,Pazartesi" />
+    <date_time time="10:30 - 13:00" />
+    <date_explanation explanation="kamon baybs" />
+  </date>
+</root>

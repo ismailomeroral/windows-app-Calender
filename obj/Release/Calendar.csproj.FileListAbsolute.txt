@@ -1,0 +1,14 @@
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\bin\Release\Ajanda.exe.config
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\bin\Release\Ajanda.exe
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\bin\Release\Ajanda.pdb
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\bin\Release\tr\Ajanda.resources.dll
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Calendar.csproj.AssemblyReference.cache
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Calendar.frmMain.resources
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Ajanda.Properties.Resources.resources
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Calendar.frmMain.tr.resources
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Calendar.csproj.GenerateResource.cache
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Calendar.csproj.CoreCompileInputs.cache
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\tr\Ajanda.resources.dll
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Ajanda.exe
+C:\Users\isor5\OneDrive\Masaüstü\My\programlarım\Windows\Calendar\Calendar\obj\Release\Ajanda.pdb
